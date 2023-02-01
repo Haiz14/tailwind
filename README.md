@@ -16,3 +16,5 @@ the site is online in localhost:8000
 Latest-Veresion: **3.2.4**
 
 this site does not have the blogs, and showcases of tailwind, they imcrease the build te by 5-8 hours on `gcloud-cloudshell` mostly because of the umages and videos i think. 
+
+size: 8mb
